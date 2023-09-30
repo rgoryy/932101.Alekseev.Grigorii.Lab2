@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.inline-block {
+    display: inline-block;
+    margin: 10px;
+    width: 200px;
+    height: 100px;
+    background-color: aquamarine;
+    
+}
+
+.noclear {
+    background-color: bisque;
+}

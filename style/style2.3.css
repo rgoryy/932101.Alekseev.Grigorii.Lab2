@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    background: blue;
+    width: 600px;
+    margin: 0 auto;
+    color:white;
+}

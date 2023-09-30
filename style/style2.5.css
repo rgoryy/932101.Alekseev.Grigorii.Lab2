@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+.firstbox {
+    width: 500px;
+    margin: 20px auto;
+    padding: 0;
+    background-color: green;
+    color: white;
+    
+}
+
+.secondbox {
+    width: 600px;
+    margin: 20px auto;
+    padding: 50px;
+    background-color: blue;
+    color: white;
+}

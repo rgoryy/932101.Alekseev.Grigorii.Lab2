@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+.firstbox {
+    width: 500px;
+    margin: 20px auto;
+    padding: 0;
+}
+
+.secondbox {
+    width: 500px;
+    margin: 20px auto;
+    padding: 50px;
+    border: 10px solid blue;
+}

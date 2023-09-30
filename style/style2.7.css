@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+    color: white;
+}
+
+.static {
+    background-color: blueviolet;
+    width: 150px;
+    height: 100px;
+    position: static;
+}
+
+.relative-darked {
+    background-color: darkred;
+    width: 150px;
+    height: 100px;
+    position: relative;
+}
+
+.relative-peru {
+    background-color: peru;
+    width: 150px;
+    height: 100px;
+    position: relative;
+    bottom: 35px;
+    left: 35px;
+}
+
+.relative-parent {
+    background-color: indianred;
+    width: 600px;
+    height: 400px;
+    position: relative;
+}
+
+.relative-child {
+    background-color: indigo;
+    width: 280px;
+    height: 190px;
+    position: absolute;
+    right: 0;
+    top: 125px;
+}
+
+.fixed {
+    background-color: forestgreen;
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+}
